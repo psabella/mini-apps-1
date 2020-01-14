@@ -1,6 +1,6 @@
 import React from 'react';
 
-class React extends React.Component {
+class App extends React.Component {
   constructor(props) {
     super(props);
   }
